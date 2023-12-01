@@ -1,4 +1,4 @@
-# Advanced Data Mining Analysis on Chronic Disease Indicators Community Analysis
+# Advanced Data Mining Techniques of Chronic Disease Indicators in Communities
 
 ## Dataset taken from Division of Population Health Center for Disease Control and Prevention (CDC)
 
